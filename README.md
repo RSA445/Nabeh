@@ -1,32 +1,32 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,50:0ea5e9,100:14b8a6&height=200&section=header&text=Nabeh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Smart%20Safety%20System%20for%20Pilgrims&descSize=18&descAlignY=58" width="100%" alt="Nabeh"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,50:0ea5e9,100:14b8a6&height=200&section=header&text=Nabeh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI-Powered%20Academic%20Advising%20Chatbot&descSize=18&descAlignY=58" width="100%" alt="Nabeh"/>
 </p>
 
 <p align="center">
   <img src="assets/logo.png" width="170" alt="Nabeh logo"/>
 </p>
 
-<h3 align="center">🛡️ Nabeh · Smart Safety System for Pilgrims</h3>
+<h3 align="center">🎓 Nabeh · AI-Powered Academic Advising Chatbot</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Smart%20Safety-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Real--time%20Monitoring-14B8A6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Alert%20System-EF4444?style=for-the-badge"/> <img src="https://img.shields.io/badge/Smart%20Tracking-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/EdTech-14B8A6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Personalized%20Advising-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/24/7%20Support-22C55E?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Overview
 
-Nabeh is a smart safety system designed to reduce violations in restricted pilgrimage areas. It monitors these areas in real time and raises alerts when an incident is detected, helping keep pilgrims safe and areas compliant.
+Nabeh is an AI-powered chatbot for academic advising. It is fed with accurate information from faculty members and top-performing students, along with the university's regulations and policies, so students get reliable guidance whenever they need it.
 
 ---
 
 ## ❓ The Problem
 
-Some pilgrimage areas are restricted for safety and organizational reasons. When people enter them without permission, it creates risks for the pilgrims themselves and makes the work of the organizing authorities harder.
+Students often need academic advice at moments when their advisor is not available. Waiting for an appointment delays important decisions, general answers do not fit every student's major or level, and university regulations are spread across many documents that are hard to search.
 
 ## 💡 Our Solution
 
-Nabeh watches restricted areas continuously and detects incidents as they happen. When a violation occurs, the alert system notifies the responsible teams so they can respond quickly, while smart tracking supports safety and compliance.
+Nabeh gives students instant answers tailored to their major and academic level. It also offers remedial plans and guidance tips from the faculty member who teaches the course the student needs help with. Because it is linked to the student's university account, it keeps their data private and personalizes every recommendation, and it is available at any time without waiting for an advisor.
 
 ---
 
@@ -34,26 +34,27 @@ Nabeh watches restricted areas continuously and detects incidents as they happen
 
 <table>
   <tr>
-    <td width="25%" align="center" valign="top"><h2>📡</h2><b>Real-time monitoring</b><br/><sub>Continuously monitors restricted pilgrimage areas.</sub></td>
-    <td width="25%" align="center" valign="top"><h2>🚨</h2><b>Alert system</b><br/><sub>Raises alerts as soon as an incident is detected.</sub></td>
-    <td width="25%" align="center" valign="top"><h2>📍</h2><b>Smart tracking</b><br/><sub>Uses smart tracking solutions to support safety and compliance.</sub></td>
-    <td width="25%" align="center" valign="top"><h2>✅</h2><b>Fewer violations</b><br/><sub>Aims to reduce violations in restricted areas.</sub></td>
+    <td width="25%" align="center" valign="top"><h2>📚</h2><b>Trusted knowledge base</b><br/><sub>Built on input from faculty, top-performing students, and university regulations.</sub></td>
+    <td width="25%" align="center" valign="top"><h2>🎯</h2><b>Personalized answers</b><br/><sub>Tailored to each student's major and academic level.</sub></td>
+    <td width="25%" align="center" valign="top"><h2>🩺</h2><b>Remedial plans & guidance</b><br/><sub>Study plans and tips from the instructor of the course the student needs.</sub></td>
+    <td width="25%" align="center" valign="top"><h2>🔐</h2><b>Private and always available</b><br/><sub>Linked to the university account, with support any time without waiting.</sub></td>
   </tr>
 </table>
 
 ---
 
-## 🏆 Achievements
+## ⚙️ How It Works
 
-| | Achievement |
-| :---: | --- |
-| 🛡️ | **Enhanced safety and compliance through smart tracking solutions** |
+1. **Sign in:** The student signs in with their university account, so Nabeh knows their major and level while keeping their data private.
+2. **Ask a question:** The student asks about courses, regulations, study plans, or anything related to their academic path.
+3. **Get a tailored answer:** Nabeh answers instantly using its knowledge base, adjusted to the student's major and academic level.
+4. **Follow the plan:** When needed, the student receives a remedial plan and guidance from the relevant course instructor.
 
 ---
 
 ## 🌍 Impact Areas
 
-Public safety · Smart monitoring · Hajj and Umrah services
+Quality education · Student success · Digital transformation of universities
 
 ---
 
